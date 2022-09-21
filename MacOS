@@ -1,0 +1,2 @@
+папка с бинарниками (установленные пакеты, terraform, packer, docker и тд) 
+ ls -ls /usr/local/bin
